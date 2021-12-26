@@ -11,3 +11,7 @@
 <li>Como instalar Codelite no Linux
 <li>Como instalar XCode no Mac
 <li>Como instalar Visual Studio no Windows
+<li>O que são funções inline
+<li>O motivo de se evitar variáveis globais
+<li>O que são referências em C++ e como usá-las
+<li>Como prometer que uma referência não será alterada, com <i>const</i>
