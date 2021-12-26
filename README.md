@@ -3,3 +3,7 @@
 <li>Como organizar melhor nosso projeto em vários arquivos
 <li>Qual a real utilidade de arquivos de cabeçalho
 <li>Como utilizar a mesma variável em múltiplos "arquivos"
+<li>As diferentes fases de transformação do código em executável
+<li>As etapas do processo de compilação
+<li>Os detalhes do processo de <i>linking</i>
+<li>Como compilar e fazer linking de forma individual usando <i>g++</i>
