@@ -15,3 +15,6 @@
 <li>O motivo de se evitar variáveis globais
 <li>O que são referências em C++ e como usá-las
 <li>Como prometer que uma referência não será alterada, com <i>const</i>
+<li>Como tornar uma variável limitada a uma unidade de tradução
+<li>Como limitar símbolos (como funções) dentro de namespaces
+<li>Como utilizar namespaces de diversas formas <i>(using, ::, etc)</i>
