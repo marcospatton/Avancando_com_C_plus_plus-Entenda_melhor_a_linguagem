@@ -7,3 +7,7 @@
 <li>As etapas do processo de compilação
 <li>Os detalhes do processo de <i>linking</i>
 <li>Como compilar e fazer linking de forma individual usando <i>g++</i>
+<li>O que é uma IDE e o motivo de usar uma IDE
+<li>Como instalar Codelite no Linux
+<li>Como instalar XCode no Mac
+<li>Como instalar Visual Studio no Windows
