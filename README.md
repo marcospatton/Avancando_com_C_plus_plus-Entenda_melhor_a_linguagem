@@ -18,3 +18,8 @@
 <li>Como tornar uma variável limitada a uma unidade de tradução
 <li>Como limitar símbolos (como funções) dentro de namespaces
 <li>Como utilizar namespaces de diversas formas <i>(using, ::, etc)</i>
+<li>O que é Stack
+<li>O que é Heap
+<li>Qual a diferença entre Stack e Heap e suas implicações em performance
+<li>Vimos que std::vector aloca os dados na Heap (por ser dinâmico)
+<li>Conhecemos o tipo std::array que é alocado na Stack (por ser estático)
